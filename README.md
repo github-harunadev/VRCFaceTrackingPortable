@@ -1,35 +1,17 @@
-# 👀 VRCFaceTracking
+# 👀 VRCFaceTracking Old Version Portable 포터블 버전
 
-Provides eye tracking and lip tracking in VRChat by providing a bridge between your tracking hardware and VRChat's OSC server.
-## [Get started here!](https://docs.vrcft.io/docs/intro/getting-started)
+Since VRCFaceTracking only provides portable executables from version 5.2.3.0 and I wanted to stick to the old version (after wiping my PC), I decided to unpack the .msix installers of some known stable old versions.
 
-[![Discord](https://discord.com/api/guilds/849300336128032789/widget.png)](https://discord.com/invite/vrcft)
+VRCFaceTracking 버전 5.2.3.0부터 포터블 실행파일을 제공하지만, 저는 예전 버전들이 더 안정적이게 작동했었기 때문에, 일부 옛 버전들을 직접 포터블 버전으로 배포하기로 했습니다.
 
-## 🎥 Demo
 
-[![](https://i.imgur.com/iQkw12C.jpg)](https://youtu.be/ZTVnh8aaf9U)
+Installed modules are global and will stay even if you delete the executables and its folder.
 
-## 🛠 Avatar Setup
+모듈은 PC에 설치되며, 실행파일 및 폴더를 삭제해도 사라지지 않습니다.
 
-For this app to work, you'll need to be using an avatar with the correct parameters or an avatar config file with the correct mappings. The system is designed to control your avatar's eyes and lips via simple blend states but what the parameters control is completely up to you.
 
-### [List of Parameters](https://docs.vrcft.io/docs/tutorial-avatars/tutorial-avatars-extras/parameters/)
+Any new updates in the individual modules could break at any time since I nor VRCFT does not guarantee the full functionallity.
 
-## 👀 [Eye Parameters](https://docs.vrcft.io/docs/tutorial-avatars/tutorial-avatars-extras/parameters/#eye-tracking-parameters)
+설치한 모듈이 업데이트될 때 마다 호환성이 깨질 수 있고 제대로 작동하지 않을 수 있습니다. 정확한 작동성은 저 또는 VRCFT가 보장하지 않습니다.
 
-### [Eye Tracking Setup Guide](https://github.com/benaclejames/VRCFaceTracking/wiki/Eye-Tracking-Setup)
-
-It's not required to use all of these parameters. In fact, you don't need to use any of them if you intend on using VRChat's built-in eye tracking system. Similar to the setup of parameters with Unity Animation Controllers, these are all case-sensitive and must be copied **EXACTLY** as shown into your Avatar's base parameters. A typical setup might look something like this:<br>
-![](https://i.imgur.com/kfJD1Bl.png)
-
-We strongly encourage you to [consult the docs](https://docs.vrcft.io) for a setup guide and more info as to what each parameter does
-
-## :lips: [Lip and Face Parameters](https://docs.vrcft.io/docs/tutorial-avatars/tutorial-avatars-extras/parameters/#expression-tracking-parameters)
-
-There are a large number of parameters you can use for lip and face tracking. 
-
-### [Combined Lip Parameters](https://docs.vrcft.io/docs/tutorial-avatars/tutorial-avatars-extras/parameters/#addtional-simplified-tracking-parameters) - Combined parameters to group mutually exclusive face shapes.
-
-## ⛓ External Modules
-
-Use the module registry to download addons and add support for your hardware!
+## [Download from releases  릴리즈에서 다운로드](https://github.com/github-harunadev/VRCFaceTrackingPortable/releases)
