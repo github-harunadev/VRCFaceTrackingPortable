@@ -19,6 +19,8 @@ Any new updates in the individual modules could break at any time since I nor VR
 설치한 모듈이 업데이트될 때 마다 호환성이 깨질 수 있고 제대로 작동하지 않을 수 있습니다. 정확한 작동성은 저 또는 VRCFT가 보장하지 않습니다.
 
 ## [Download from releases  릴리즈에서 다운로드](https://github.com/github-harunadev/VRCFaceTrackingPortable/releases)
+### Unpack to safe folder and create shortcut or enable SteamVR auto launch!
+### 안전한 폴더에 압축을 풀고, 프로그램 바로가기를 만들거나 SteamVR auto launch를 활성화하세요!
 
 ## TMI
 
