@@ -5,7 +5,7 @@ Since VRCFaceTracking only provides portable executables from version 5.2.3.0 an
 VRCFaceTracking 버전 5.2.3.0부터 포터블 실행파일을 제공하지만, 저는 예전 버전들이 더 안정적이게 작동했었기 때문에, 일부 옛 버전들을 직접 포터블 버전으로 배포하기로 했습니다.
 
 
-(and also the installer signature is broken on any older versions... making all the old versions not installable... 그리고 모든 옛 버전의 설치파일에 서명된 인증서가 전부 만료되어버렸기에... 옛 버전을 쓰고 싶어도 쓸 수가 없었던...)
+##### (and also the installer signature is broken on any older versions... making all the old versions not installable... 그리고 모든 옛 버전의 설치파일에 서명된 인증서가 전부 만료되어버렸기에... 옛 버전을 쓰고 싶어도 쓸 수가 없었던...)
 
 ## Notes 알아둘 점
 
