@@ -1,6 +1,6 @@
 # 👀 VRCFaceTracking Old Version Portable 포터블 버전
 
-Since VRCFaceTracking only provides portable executables from version 5.2.3.0 and I wanted to stick to the old version (after wiping my PC), I decided to unpack the .msix installers of some known stable old versions.
+Since VRCFaceTracking only provides portable executables from version 5.2.3.0 and I wanted to stick to the old version (even after wiping my PC), I decided to unpack the .msix installers of some known stable old versions.
 
 VRCFaceTracking 버전 5.2.3.0부터 포터블 실행파일을 제공하지만, 저는 예전 버전들이 더 안정적이게 작동했었기 때문에, 일부 옛 버전들을 직접 포터블 버전으로 배포하기로 했습니다.
 
