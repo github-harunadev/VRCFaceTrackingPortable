@@ -18,9 +18,20 @@ Any new updates in the individual modules could break at any time since I nor VR
 
 설치한 모듈이 업데이트될 때 마다 호환성이 깨질 수 있고 제대로 작동하지 않을 수 있습니다. 정확한 작동성은 저 또는 VRCFT가 보장하지 않습니다.
 
+
 ## [Download from releases  릴리즈에서 다운로드](https://github.com/github-harunadev/VRCFaceTrackingPortable/releases)
 ### Unpack to safe folder and create shortcut or enable SteamVR auto launch!
 ### 안전한 폴더에 압축을 풀고, 프로그램 바로가기를 만들거나 SteamVR auto launch를 활성화하세요!
+
+
+## How to completely uninstall 완전히 삭제하는 방법
+This will delete all of your settings, modules, ETC.
+모든 설정, 설치된 모듈을 삭제합니다.
+
+Ternimate all VRCFaceTracking process, delete the executables and its folder, and from File Browser navigate to `%appdata%\VRCFaceTracking` and delete all of its contents.
+
+모든 VRCFaceTracking 프로그램 및 프로세스를 종료하고, 실행파일 및 폴더를 삭제한 후, 파일관리자에서 `%appdata%\VRCFaceTracking` 로 들어간 뒤에, 안의 내용물을 모두 삭제하세요.
+
 
 ## TMI
 
